@@ -14,6 +14,13 @@ Una app construida con **React** donde los usuarios pueden crear, modificar, eli
 - **Tecnologías**: React
 
 
+
+### 3. **TransactFlow**
+
+    TransactFlow es una aplicación Full Stack donde los usuarios pueden registrarse, darse de baja, cambiar su contraseña, crear y recibir transacciones, además de poner una foto de perfil. Este proyecto abarca tanto el frontend como el backend, permitiendo una gestión eficiente de transacciones y una experiencia de usuario personalizada.
+
+  -  **Tecnologías**: React, Node.js, Express, MongoDB, JWT, Multer 
+
 ## ⚙️ Habilidades
 
 - **Frontend**: HTML, CSS, JavaScript, React
@@ -23,11 +30,11 @@ Una app construida con **React** donde los usuarios pueden crear, modificar, eli
 
 ## 🌱 En lo que estoy trabajando actualmente
 
-Estoy ampliando mis conocimientos en **bases de datos** y **metodologías ágiles** como **Scrum** para gestionar proyectos de manera más eficiente. Además, sigo practicando con **JavaScript** y aprendiendo nuevos frameworks y librerías.
+Estoy ampliando mis conocimientos en **bases de datos** y **metodologías ágiles** como **Scrum** para gestionar proyectos de manera más eficiente. Además, he empezado la especialización de Backend.
 
 ## 📫 Conectemos
 
 - [LinkedIn](https://www.linkedin.com/in/ana-molina-romero)
-- [Correo Electrónico](mailto:tanampñina.r08@gmail.com)
+- [Correo Electrónico](mailto:anamolina.r08@gmail.com)
 
 ¡Gracias por visitar mi portfolio! 🚀
