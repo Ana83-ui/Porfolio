@@ -16,9 +16,7 @@ Una app construida con **React** donde los usuarios pueden crear, modificar, eli
 
 
 ### 3. **TransactFlow**
-
-    TransactFlow es una aplicación Full Stack donde los usuarios pueden registrarse, darse de baja, cambiar su contraseña, crear y recibir transacciones, además de poner una foto de perfil. Este proyecto abarca tanto el frontend como el backend, permitiendo una gestión eficiente de transacciones y una experiencia de usuario personalizada.
-
+TransactFlow es una aplicación Full Stack donde los usuarios pueden registrase, darse de baja, cambiar su contraseña, crear y recibir transacciones, además de personalizar su foto de perfil. Este proyecto abarca tanto el frontend como el backend permitiendo una gestión eficiente de transacciones y una experiencia de usuario personalizada
   -  **Tecnologías**: React, Node.js, Express, MongoDB, JWT, Multer 
 
 ## ⚙️ Habilidades
